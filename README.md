@@ -1,7 +1,5 @@
 # HOW ELLIOT HACKED THE CELL TOWERS
 
-![Elliot Alderson]([https://cdnb.artstation.com/p/assets/images/images/003/189/301/large/rabbit-ran-elliott-artstation.jpg?1470818704])
-
 **Nikhil Kulkarni**  
 Ethical Hacker | Cyber Security Aspirant  
 
