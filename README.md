@@ -1,6 +1,6 @@
 # HOW ELLIOT HACKED THE CELL TOWERS
 
-![Elliot Alderson]([https://path-to-your-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Felliot-alderson-mr-robot-2-season-best-tv-series-rami-malek-wallpaper-jick&psig=AOvVaw1rRm9x_-NdsuD2IhqCWwBV&ust=1722765608390000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjG_pLI2IcDFQAAAAAdAAAAABAE))
+![Elliot Alderson]([https://cdnb.artstation.com/p/assets/images/images/003/189/301/large/rabbit-ran-elliott-artstation.jpg?1470818704])
 
 **Nikhil Kulkarni**  
 Ethical Hacker | Cyber Security Aspirant  
