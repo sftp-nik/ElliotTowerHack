@@ -67,4 +67,6 @@ The information provided is for educational purposes only. Users are advised to 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thenikkulkarni/)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_nikhilkulkarni)
 
+Also I have attacked the PDF of this guide, have look!
+
 Thank You!
